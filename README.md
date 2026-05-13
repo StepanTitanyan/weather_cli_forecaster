@@ -45,3 +45,21 @@ The app also stores API responses in a local cache file, so repeated requests fo
 
 ## Notes
 The real .env file is included in the repository, please do not share (for security reasons).
+
+# How to use
+## Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/weather_cli_forecaster.git
+cd weather_cli_forecaster
+```
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### Run
+```bash
+python main.py
+```
