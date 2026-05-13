@@ -46,8 +46,7 @@ The app also stores API responses in a local cache file, so repeated requests fo
 ## Notes
 The real .env file is included in the repository, please do not share (for security reasons).
 
-# How to use
-## Setup
+## How to use
 
 ### 1. Clone the repository
 
