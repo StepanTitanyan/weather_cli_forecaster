@@ -36,6 +36,7 @@ weather_cli/
 ├── requirements.txt
 ├── .env.example
 └── README.md
+```
 
 ## How It Works
 The user enters a location name, and the app uses the OpenWeather Geocoding API to find matching locations. After the user selects the correct location, the app can show current weather, forecast data, air quality, or a full report.
