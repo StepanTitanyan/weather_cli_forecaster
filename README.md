@@ -51,7 +51,7 @@ The real .env file is included in the repository, please do not share (for secur
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather_cli_forecaster.git
+git clone https://github.com/StepanTitanyan/weather_cli_forecaster.git
 cd weather_cli_forecaster
 ```
 ### Install dependencies
